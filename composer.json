@@ -1,0 +1,13 @@
+{
+    "name": "seyyedhesammirebrahimi/clubhouse-api",
+    "description": "clubhouse private api",
+    "type": "library",
+    "homepage": "http://learnman.ir",
+    "authors": [
+        {
+            "name": "Seyyed Hesam Mirebrahimi",
+            "email": "hesaam.mir@gmail.com"
+        }
+    ],
+    "require": {}
+}
